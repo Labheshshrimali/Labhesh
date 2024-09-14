@@ -1,0 +1,34 @@
+.home-section {
+    width: 100%;
+    height: 100vh;
+
+    background-image: url(6.png);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.home-text-part {
+    height: 600px;
+}
+
+.home-text-part h1 {
+    font-size: 50px;
+}
+
+.home-text-part p {
+    font-size: 18px;
+}
+
+.home-image-part {
+
+}
+
+.home-image-part img {
+    width: 95%;
+    object-fit: cover;
+}
+
+.border-red {
+    border: 2px solid red;
+}
